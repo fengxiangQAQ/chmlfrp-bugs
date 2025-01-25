@@ -13,3 +13,66 @@ chaoji写v3面板登录页时写了限制
 触发条件: 用户邮箱>20字符
 
 ![pic](/res/BUG++/登录不上了(悲).png "pic")
+
+## 隧道编辑不了(啊啊！)
+### info
+状态: 未解决
+
+出处：v3面板
+
+发现人: boring_student(无聊)
+### 详情
+emmm...
+
+chaoji没写
+
+触发条件: 点一下编辑按钮（没反应）
+
+## 隧道启动状态不准(新人：为啥（ 啊啊！)
+### info
+状态: 未解决
+
+出处：v3面板
+
+发现人: boring_student(无聊)
+### 详情
+emmm...
+
+古早的bug 都不知道啥时候的事了
+
+触发条件: 启动一下隧道
+
+## 隧道查看(新人：啊?！月球CN2-1节点？)
+### info
+状态: 未解决
+
+出处：v3面板
+
+发现人: boring_student(无聊)
+### 详情
+原因：超级不勤劳（
+
+触发条件: 先创建一个隧道。点击一下查看按钮。
+
+自己看吧。。。
+[https://preview.panel.chmlfrp.cn/tunnel/info](https://preview.panel.chmlfrp.cn/tunnel/info)
+
+![pic](/res/BUG++/月球CN2-1节点.png "pic")
+
+
+
+## 免费域名(人：啊?！删不掉？两个一样的？)
+### info
+状态: 未解决
+
+出处：v3面板 or v2 api
+
+发现人: boring_student(无聊)
+### 详情
+逆天的bug 我都5个boring.baozi.site
+
+触发条件: 
+1. 注册一个免费域名（AAAA记录） 然后你会发现只要目标不一样就可以一直创建且不能删除
+2. emmm...因为当时抢注chaoji.xxx所以就一堆chaoji.xxx域名了...（but原因未知）
+
+![pic](/res/BUG++/一堆域名.png "pic")
