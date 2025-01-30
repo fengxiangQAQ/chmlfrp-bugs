@@ -276,3 +276,25 @@ but...他自己写的http(s)隧道不能传入远程端口的
 <video width="100%" height="auto" controls>
     <source src="./res/BUG++/不太模糊.mp4" type="video/mp4">
 </video>
+
+## me:让我看看 密码:不要
+### info
+状态: 未解决
+
+出处: v3面板
+
+发现人: 翟十光
+### 详情
+当你使用移动端设备打开面板
+
+进入登录页
+
+你输入了密码想看看密码有没有输错
+
+你会发现
+
+看不了(
+
+<video width="100%" height="auto" controls>
+    <source src="./res/BUG++/让我看看_不要.mp4" type="video/mp4">
+</video>
