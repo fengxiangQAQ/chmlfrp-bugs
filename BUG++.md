@@ -308,6 +308,6 @@ but...他自己写的http(s)隧道不能传入远程端口的
 
 看不了(
 
-<video width="100%" height="auto" controls>
-    <source src="./res/BUG++/让我看看_不要.mp4" type="video/mp4">
-</video>
+https://github.com/user-attachments/assets/78d3939a-ff0e-46eb-81a6-bf259af08084
+
+
