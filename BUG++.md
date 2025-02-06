@@ -12,9 +12,7 @@ chaoji写v3面板登录页时写了限制
 
 触发条件: 用户邮箱>20字符
 
-<video src="./res/BUG++/邮箱登不上了.mp4"></video>
-
-
+![pic](/res/BUG++/登录不上了(悲).png "pic")
 
 ### 补充
 状态: 未解决
@@ -27,7 +25,7 @@ chaoji写v3面板登录页时写了限制
 
 触发条件: 用户邮箱带有特殊字符
 
-![pic](/res/BUG++/登录不上了(悲).png "pic")
+https://github.com/user-attachments/assets/94b77dee-f361-4068-ab55-54f3499acaf8
 
 ## 隧道编辑不了(啊啊!)
 ### info
