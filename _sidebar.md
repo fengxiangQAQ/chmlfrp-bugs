@@ -1,2 +1,3 @@
 - [简介](/)
 - [BUG++](/BUG++.md)
+- [限定BUG](/HistoryBug.md)
