@@ -1,5 +1,20 @@
 <!DOCTYPE html>
 <html lang="zh-CN">
+<style>
+.beian-footer {
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  text-align: center;
+  padding: 10px 0;
+  font-size: 12px;
+  color: #999;
+  background: rgba(255,255,255,0.8);
+  z-index: 100;
+  border-top: 1px solid #eee;
+}
+</style>
+
 <head>
   <meta charset="UTF-8">
   <title>Chmlfrp BUG++</title>
@@ -10,6 +25,9 @@
 </head>
 <body>
   <div id="app"></div>
+  <div class="beian-footer">
+    <a href="https://beian.miit.gov.cn/" target="_blank">闽ICP备2025107306号-1</a>
+  </div>
   <script>
     window.$docsify = {
       loadSidebar: true,
